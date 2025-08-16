@@ -1,6 +1,6 @@
 🙋‍♀️ The purpose of this organization is to assist you in developing more elegant and dependable programs for physical research.
 
-👩‍💻 It is assumed that you already possess a basic understanding of physics, have some programming experience, and are eager to enhance your skills.
+👩‍💻 It is assumed that you already possess a basic understanding of physics, have some programming experience.
 
 🧙 Physics departments often overlook the importance of IT disciplines, which can greatly enhance the quality of your research.
 
