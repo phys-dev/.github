@@ -5,3 +5,5 @@
 🧙 Physics departments often overlook the importance of IT disciplines, which can greatly enhance the quality of your research.
 
 🌈 This is an ambitious objective, and we will work towards achieving it together!
+
+*so far only in Russian*
