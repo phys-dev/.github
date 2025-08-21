@@ -1,9 +1,9 @@
-🙋‍♀️ The purpose of this organization is to assist you in developing more elegant and dependable programs for physical research.
+🙋‍♀️ Цель этой организации - помочь вам в разработке более элегантных и надежных программ для физических исследований.
 
-👩‍💻 It is assumed that you already possess a basic understanding of physics, have some programming experience.
+👩‍💻 Предполагается, что вы уже обладаете базовым пониманием физики и имеете некоторый опыт программирования.
 
-🧙 Physics departments often overlook the importance of IT disciplines, which can greatly enhance the quality of your research.
+🧙 Физические факультеты часто упускают из виду важность IT-дисциплин. А их знание может значительно повысить качество ваших исследований.
 
-🌈 This is an ambitious objective, and we will work towards achieving it together!
+🌈 Это амбициозная цель, и мы будем работать над ее достижением вместе!
 
-*so far only in Russian*
+*пока только на русском языке*
